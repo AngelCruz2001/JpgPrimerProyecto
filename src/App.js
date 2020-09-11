@@ -5,6 +5,8 @@ export const App = () => {
         <div>
             <h1>Primer Proyecto JPG</h1>
             <hr />
+
+            <h3>Prueba again</h3>
         </div>
     )
 }
