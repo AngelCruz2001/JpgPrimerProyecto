@@ -6,7 +6,7 @@ export const App = () => {
             <h1>Primer Proyecto JPG</h1>
             <hr />
 
-            <h3>Prueba again</h3>
+            <h3>Prueba again ||||||||</h3>
         </div>
     )
 }
