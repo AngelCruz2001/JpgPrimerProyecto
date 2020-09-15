@@ -6,7 +6,8 @@ export const App = () => {
             <h1>Primer Proyecto JPG</h1>
             <hr />
 
-            <h3>Prueba again ||||||||</h3>
+            <h3>Prueba again |||||||111|</h3>
+            <h4>Si esto jala seremos mega felicez. </h4>
         </div>
     )
 }
